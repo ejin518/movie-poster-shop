@@ -1,0 +1,23 @@
+ul {
+  padding:0;
+}
+li {
+  list-style: none;
+}
+a{
+  text-decoration: none;
+  color:#000;
+}
+.inner {
+  max-width:1220px;
+  width:100%;
+  margin:0 auto;
+  position:relative;
+  height:inherit;
+}
+.section {
+  width:100%;
+}
+.show {
+  display:block;
+}
